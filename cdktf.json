@@ -1,0 +1,7 @@
+{
+    "language": "typescript",
+    "app": "BMO IAC",
+    "sendCrashReports": "false",
+    "terraformProviders": [],
+    "terraformModules": []
+}
